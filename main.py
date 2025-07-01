@@ -1,5 +1,5 @@
 
-# Return/Exchange Cycle Detector using Graph Cycle Detection (DFS)
+# Return/Exchange Cycle Detector using Graph Cycle Detection
 
 class Graph:
     def __init__(self):
